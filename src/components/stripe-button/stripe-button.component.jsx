@@ -9,7 +9,7 @@ const StripeCheckoutButton = ({ price }) => {
      alert('Payment Successful');
  }
      
-rteurn (
+return (
     <StripeCheckout
     label='Pay now'
     name='CRWN Clothing Ltd.'
